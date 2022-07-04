@@ -1,14 +1,14 @@
-<h1>Hi 👋, I'm Leandro</h1>
-
+<h1 align="center">Hi 👋, I'm Leandro</h1>
+<h3 align="center">A focused Software Engineer always prepared to learn more!</h3>
+<hr>
 
 <div align="right">
   <img align="right" width="380" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" />
 </div>
 
 <div align="left">
-  <h3 align="left">A focused Software Engineer always prepared to learn more!</h3>
-  <br>
-  <p>:computer: Currently working at <a href="https://www.brfconsulting.com/"> BRF Consulting</a>.</p>
+  <h4 align="left">Currently working at:</h4>
+  <p> <a href="https://www.brfconsulting.com/"> BRF Consulting</a></p>
   <h4 align="left">Some of the technologies I'm familiar with:</h4>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
