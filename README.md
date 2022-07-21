@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A focused Software Engineer always prepared to learn more!</h3>
+<h3 align="center">A focused Data Engineer always prepared to learn more!</h3>
 <hr>
 
 <div align="right">
