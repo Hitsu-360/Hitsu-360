@@ -8,7 +8,7 @@
 
 <div align="left">
   <h4 align="left">Currently working at:</h4>
-  <p> <a href="https://www.brfconsulting.com/"> BRF Consulting</a></p>
+  <p> <a href="https://qualytics.co/">Qualytics</a></p>
   <h4 align="left">Some of the technologies I'm familiar with:</h4>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
