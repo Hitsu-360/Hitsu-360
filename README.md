@@ -21,15 +21,7 @@ Software developer with a data engineering background, currently at **[Qualytics
 
 ### 🛠️ Tech stack
 
-**Main focus**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue" />
-</p>
-
-**Data & infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,gcp,aws,docker,git,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue,postgres,gcp,aws,docker,git,githubactions,linux" />
   <img src="assets/dbt.svg" alt="dbt" height="48" />
 </p>
