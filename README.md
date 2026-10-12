@@ -13,7 +13,7 @@
 Software developer with a data engineering background, currently at **[Qualytics](https://qualytics.co/)** in Brasília, Brazil. I learn new technologies fast and adapt easily, and I've worked across frontend, backend, data pipelines and CI/CD.
 
 - 🐍 Backend APIs with **Python** and **FastAPI**
-- 🟩 Frontends with **TypeScript** and **Vue.js**
+- 🟩 Frontends with **TypeScript** and **Vue.js**, focused on simple, intuitive UX on top of robust, scalable platforms
 - ❄️ Data platforms: **Snowflake**, **BigQuery**, **PostgreSQL**, **dbt**, **Airflow**, **Fivetran**
 - ⚙️ Delivery: **Docker**, **GitHub Actions**, **AWS** (Lambda, S3)
 - 🤖 AI-assisted development: using AI tools daily to design, build and ship features faster
