@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Cavalcanti</h1>
-<h3 align="center">Software developer with a data engineering background, building APIs and web apps with Python, FastAPI, TypeScript and Vue.js</h3>
+<h3 align="center">Software engineer with a data engineering background who learns fast, adapts easily and turns complex problems into simple, reliable products</h3>
 
 <p align="center">
   <a href="https://hitsu-360.github.io"><img src="https://img.shields.io/badge/Website-hitsu--360.github.io-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 
-Software developer with a data engineering background, currently at **[Qualytics](https://qualytics.co/)** in Brasília, Brazil. I learn new technologies fast and adapt easily, and I've worked across frontend, backend, data pipelines and CI/CD.
+I'm a software engineer at **[Qualytics](https://qualytics.co/)**, based in Brasília, Brazil. My background in data engineering shapes how I build software: I care about quality, reliability and the details that make a platform better to use. I enjoy working across the whole development lifecycle, from shaping an idea to delivering it in production, and I'm always looking for innovative ways to improve the products I work on. New technologies don't slow me down. I learn quickly and adapt to whatever the project needs.
 
 - 🐍 Backend APIs with **Python** and **FastAPI**
 - 🟩 Frontends with **TypeScript** and **Vue.js**, focused on simple, intuitive UX on top of robust, scalable platforms
