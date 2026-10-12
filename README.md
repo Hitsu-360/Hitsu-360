@@ -16,6 +16,7 @@ Software developer with a data engineering background, currently at **[Qualytics
 - 🟩 Frontends with **TypeScript** and **Vue.js**
 - ❄️ Data platforms: **Snowflake**, **BigQuery**, **PostgreSQL**, **dbt**, **Airflow**, **Fivetran**
 - ⚙️ Delivery: **Docker**, **GitHub Actions**, **AWS** (Lambda, S3)
+- 🤖 AI-assisted development: using AI tools daily to design, build and ship features faster
 - 🗣️ Portuguese (native) · English (advanced)
 
 ### 🛠️ Tech stack
