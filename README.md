@@ -10,12 +10,13 @@
 
 ### 🚀 About me
 
-- 📍 Based in **Brasília, Brazil**
-- 💼 Currently working at **[Qualytics](https://qualytics.co/)**
-- 🐍 Backend: designing REST APIs with **Python** and **FastAPI**
-- 🟩 Frontend: building interfaces with **TypeScript** and **Vue.js**
-- ❄️ Background in data engineering: **Snowflake**, **dbt** and **AWS Lambda** pipelines
-- 🌱 Always learning something new
+Experienced software engineer with a strong background in data engineering, currently at **[Qualytics](https://qualytics.co/)** in Brasília, Brazil. I deliver high-quality software across application development, data integration, ETL/ELT, version control and CI/CD.
+
+- 🐍 Backend APIs with **Python** and **FastAPI**
+- 🟩 Frontends with **TypeScript** and **Vue.js**
+- ❄️ Data platforms: **Snowflake**, **BigQuery**, **PostgreSQL**, **dbt**, **Airflow**, **Fivetran**
+- ⚙️ Delivery: **Docker**, **GitHub Actions**, **AWS** (Lambda, S3)
+- 🗣️ Portuguese (native) · English (advanced)
 
 ### 🛠️ Tech stack
 
@@ -25,10 +26,10 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue" />
 </p>
 
-**Also comfortable with**
+**Data & infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,docker,aws,postgres,mysql,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,gcp,aws,docker,git,githubactions,linux" />
 </p>
 
 ### 📌 Featured projects
