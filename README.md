@@ -18,6 +18,15 @@ Experienced software engineer with a strong background in data engineering, curr
 - ⚙️ Delivery: **Docker**, **GitHub Actions**, **AWS** (Lambda, S3)
 - 🗣️ Portuguese (native) · English (advanced)
 
+### 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Software Engineer | [Qualytics](https://qualytics.co/) | Jan 2023 – Present |
+| Data Engineer | Red Pill Analytics | Sep 2018 – Dec 2022 |
+| Full Stack Developer | BRFConsulting | Sep 2018 – Dec 2022 |
+| Intern | TJDFT | Sep 2016 – Sep 2018 |
+
 ### 🛠️ Tech stack
 
 **Main focus**
