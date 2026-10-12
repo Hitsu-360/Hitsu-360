@@ -31,20 +31,3 @@ Software developer with a data engineering background, currently at **[Qualytics
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,gcp,aws,docker,git,githubactions,linux" />
 </p>
-
-### 📌 Featured projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [fast-api-sample](https://github.com/Hitsu-360/fast-api-sample) | Python · FastAPI | FastAPI sample API |
-| [vue-sample-app](https://github.com/Hitsu-360/vue-sample-app) | Vue.js | Vue sample application |
-| [snowpark-dash-app](https://github.com/Hitsu-360/snowpark-dash-app) | Python · Dash · Snowpark | Write to Snowflake through a UI |
-| [aws-lambda-dbt-api](https://github.com/Hitsu-360/aws-lambda-dbt-api) | Python · AWS Lambda | Collect information from the dbt API |
-| [aws-lambda-sharepoint-to-s3](https://github.com/Hitsu-360/aws-lambda-sharepoint-to-s3) | Python · AWS Lambda | SharePoint → S3 ingestion |
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hitsu-360&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitsu-360&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
