@@ -22,6 +22,7 @@ Software developer with a data engineering background, currently at **[Qualytics
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue,postgres,gcp,aws,docker,git,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue,postgres,gcp,aws,docker,git,githubactions" />
   <img src="assets/dbt.svg" alt="dbt" height="48" />
+  <img src="assets/snowflake.svg" alt="snowflake" height="48" />
 </p>
