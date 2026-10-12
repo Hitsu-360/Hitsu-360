@@ -30,4 +30,5 @@ Software developer with a data engineering background, currently at **[Qualytics
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,gcp,aws,docker,git,githubactions,linux" />
+  <img src="assets/dbt.svg" alt="dbt" height="48" />
 </p>
