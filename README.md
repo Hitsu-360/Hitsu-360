@@ -26,3 +26,9 @@ I'm a software engineer at **[Qualytics](https://qualytics.co/)**, based in Bras
   <img src="assets/dbt.svg" alt="dbt" height="48" />
   <img src="assets/snowflake.svg" alt="snowflake" height="48" />
 </p>
+
+### 📦 Projects
+
+<a href="https://hitsu-data-lens.vercel.app"><img src="assets/data-lens.webp" alt="DataLens results page showing a quality score and detected issues" width="600" /></a>
+
+**[DataLens](https://hitsu-data-lens.vercel.app)**: a data quality tool for CSV files. Upload a dataset and it scores its quality, points out what needs fixing, suggests validation rules from the data itself and shows exactly which rows break them. Built with Vue 3, TypeScript, Python, FastAPI and pandas, deployed on Vercel.
